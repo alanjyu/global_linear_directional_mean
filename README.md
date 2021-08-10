@@ -1,2 +1,6 @@
-# linDirMeanGlobal
-Arcpy script for getting the mean direction and length of polylines spatially within multiple polygons.
+# Global Linear Directional Mean
+An arcpy script to calculate the mean direction and length of polylines contained with the polygons. The output is displayed as a polyline.
+
+## Environment
+- ArcMap 10.8
+- Python 2.7
